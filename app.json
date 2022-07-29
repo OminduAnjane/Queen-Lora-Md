@@ -22,6 +22,10 @@
   "OPENAI_API_KEY": {
     "description": "Put your OPENAI key here.If you don't have just go on beta.openai.com/signup and get your key.",
        "value": "Paste here"
+    }.
+    "SESSION_ID": { 
+    "description": "Put your OPENAI key here.If you don't have just go on beta.openai.com/signup and get your key.", 
+    "value": "session paste"
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required)"
