@@ -1,4 +1,4 @@
-<h1 align="center">🍭 𝘘𝘜𝘌𝘌𝘕 𝘓𝘖𝘙𝘈 𝗠𝗗 🍭<br></h1>
+<h1 align="center">🍭 𝘘𝘜𝘌𝘌𝘕 𝘓𝘖𝘙𝘈 𝘉𝘒 🍭<br></h1>
 
 <p align="center">
 
@@ -45,7 +45,7 @@
 - Check usage of Commands by prefix+command help eg- -scribd help
 
   
-[![](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/UPPER.png)](https://ZeroTwoMd.tech/#qrcode)
+[![](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/UPPER.png)](https://replit.com/@OminduAnjana/Queen-Lora-Md?v=1)
   
 [![Deploy](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/MIDDLE.png)](https://heroku.com/deploy?template=https://github.com/OMINDUANJANA/Queen-Lora-Md.git)
 
@@ -92,7 +92,7 @@ npm start
 
 ## Developers
 
-[![XEON](https://github.com/dgxeon.png?size=80)](https://github.com/dgxeon) | [![Omindu](https://github.com/fantox001.png?size=100)](https://github.com/fantox001) | [![Kavindu](https://github.com/sampandey001.png?size=109)](https://github.com/sampandey001) | [![Lakindu](https://github.com/issa2001.png?size=80)](https://github.com/issa2001) | [![Rasanja](https://github.com/Prince-Mendiratta.png?size=80)](https://github.com/Prince-Mendiratta)
+[![XEON](https://github.com/dgxeon.png?size=80)](https://github.com/dgxeon) | [![Fantox](https://github.com/fantox001.png?size=100)](https://github.com/fantox001) | [![Sam Pandey](https://github.com/sampandey001.png?size=109)](https://github.com/sampandey001) | [![ISSA](https://github.com/issa2001.png?size=80)](https://github.com/issa2001) | [![Prince-Mendiratta](https://github.com/Prince-Mendiratta.png?size=80)](https://github.com/Prince-Mendiratta)
 ----|----|----|----|----
 [XEON](https://wa.me/916909137213) | [Fantox](https://wa.me/918101187835) | [Sam Pandey](https://wa.me/919628516236) | [Issa](https://wa.me/254115175696) | [Prince-Mendiratta](https://wa.me/917838204238)
 Base Bot  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules, | Modules, Idea | Modules
