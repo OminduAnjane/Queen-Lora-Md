@@ -55,7 +55,7 @@ module.exports = {
   HEROKU: {
         HEROKU: process.env.HEROKU === undefined ? false : convertToBool(process.env.HEROKU),
         API_KEY: process.env.HEROKU_API_KEY === undefined ? 'a6556f57-1851-4b46-aedf-426ce7937304' : process.env.HEROKU_API_KEY,
-        APP_NAME: process.env.HEROKU_APP_NAME === undefined ? 'queen-lora-bk' : process.env.HEROKU_APP_NAME
+        APP_NAME: process.env.HEROKU_APP_NAME === undefined ? 'queen-lora-md' : process.env.HEROKU_APP_NAME
     },
   BRANCH: 'franxx',
   VERSION: process.env.VERSION === undefined ? 'v.2.8' : process.env.VERSION,
