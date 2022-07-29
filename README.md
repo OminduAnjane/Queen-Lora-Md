@@ -72,7 +72,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Sampandey001/Zero-Two-Md
+git clone https://github.com/OMINDUANJANA/Queen-Lora-Md.git
 cd Zero-Two-Md
 npm start
 ```
