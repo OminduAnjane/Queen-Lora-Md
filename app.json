@@ -1,7 +1,7 @@
 {
   "name": "Queen-Lora-Md",
   "description": "A Whatsapp md bot build with nodejs",
-  "repository": "https://github.com/OMINDUANJANA/Queen-Lora-Md",
+  "repository": "https://github.com/OMINDUANJANA/Queen-Lora-Md.git",
   "logo": "https://github.com/OMINDUANJANA/Queen-Lora-Md/blob/franxx/ZeroTwoMedia/image3.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "QueenLora", "multi device"],
   "success_url": "/",
