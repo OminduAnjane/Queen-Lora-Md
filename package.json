@@ -1,5 +1,5 @@
 {
-  "name": "Queen Lora Bk",
+  "name": "Queen Lora Md",
   "version": "1.8.0",
   "description": "Multi device wa bot created by Team Queen Lora.",
   "main": "franxx.js",
@@ -85,10 +85,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OMINDUANJANA/Queen-Lora-BK.git"
+    "url": "git+https://github.com/OMINDUANJANA/Queen-Lora-Md.git"
   },
   "bugs": {
-    "url": "https://github.com/OMINDUANJANA/Queen-Lora-BK/issues"
+    "url": "https://github.com/OMINDUANJANA/Queen-Lora-Md/issues"
   },
-  "homepage": "https://github.com/SamPandey001/Zero-Two-Md#readme"
+  "homepage": "https://github.com/OMINDUANJANA/Queen-Lora-Md#readme"
 }
