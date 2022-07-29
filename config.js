@@ -12,8 +12,8 @@ global.log0 = fs.readFileSync("./ZeroTwoMedia/image3.jpg") //ur logo pic
 global.err4r = fs.readFileSync("./ZeroTwoMedia/image3.jpg") //ur error pic
 global.thumb = fs.readFileSync("./ZeroTwoMedia/image3.jpg")
 
-global.ytname = "YT: Zero Two Multi Device"
-global.location = "Sultanpur, Uttar Pradesh, India"
+global.ytname = "YT: Sl Hacker පොඩ්ඩා Multi Device"
+global.location = "Badalkumbura,Monaragala,SriLanka"
 global.botscript = "https://github.com/OMINDUANJANA/Queen-Lora-BK"
 global.antitags = true
 global.rkyt = []
